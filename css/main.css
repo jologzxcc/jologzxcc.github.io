@@ -594,7 +594,7 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-	color: #cc005f;
+	color: #5c98f3;
 	border-bottom: 1px solid #5c98f3;
 }
 label, legend {
@@ -1384,7 +1384,7 @@ header .logo a {
 	letter-spacing: .25rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	border-color: #cc005f;
+	border-color: #5c98f3;
 }
 .intro-content .button::after {
 	display: inline-block;
@@ -2579,7 +2579,7 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: #cc005f;
+	background: #5c98f3;
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
